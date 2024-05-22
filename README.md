@@ -60,7 +60,9 @@ The project is structured in 3 main parts:
 
 The design of this project is heavily inspired by the Microservice architecture from the web development world. A microservice is a small, independent unit that performs a specific task and communicates with other microservices with very specific and defined communication channels. This allows for a flexible and modular structure: one module can be easily taken out without heavy redesign of the application.
 
-![Miro_code_graph_3 (1)](https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/abd0d8fb-43d4-4f36-8563-c1cd14e649dc)
+<p align="center">
+    <img src="https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/abd0d8fb-43d4-4f36-8563-c1cd14e649dc" width="400">
+</p>
 
 
 ### B. Modules of the Pipeline
