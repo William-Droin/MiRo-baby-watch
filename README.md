@@ -17,7 +17,7 @@ This project presents the implementation and evaluation of MiRo as a Baby Monito
 
 Infants require constant care and supervision to ensure their safety and health. The fast-paced lifestyle of the modern day, however, warrants guardians to juggle several tasks and responsibilities. This drives the necessity for an improved system to aid in the surveillance and care of young children. The advancement of robotic technologies has motivated the innovation of several aspects of contemporary life, resulting in enhanced designs and increased ease of use. This is no exception when considering the sector of childcare.
 
-![miro-e](https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/d129aa25-dd73-491f-b28b-815a3c008d08)
+<img src="https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/d129aa25-dd73-491f-b28b-815a3c008d08" width="48">
 
 ### Traditional Baby Monitors 🖥️
 Traditional baby monitors typically provide audio and visual input to the parent or guardian to allow them to have a watchful eye on the child. This is normally limited to having a single view of the baby in the crib along with a two-way communication of sound. Thus, a constant watch on the monitor is still required, and any issues require manual fixes. Baby monitors have seen improvements over the years, some implementing aspects such as live-streaming the position and activities of the baby, others implementing intelligent systems on the cradle itself, such as automated swinging capabilities or utilizing lullaby toys. However, a number of shortfalls are still present, requiring the prolonged attention and increased labor of the guardian.
