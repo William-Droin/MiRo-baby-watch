@@ -61,7 +61,7 @@ The project is structured in 3 main parts:
 The design of this project is heavily inspired by the Microservice architecture from the web development world. A microservice is a small, independent unit that performs a specific task and communicates with other microservices with very specific and defined communication channels. This allows for a flexible and modular structure: one module can be easily taken out without heavy redesign of the application.
 
 <p align="center">
-    <img src="https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/abd0d8fb-43d4-4f36-8563-c1cd14e649dc" width="400">
+    <img src="https://github.com/William-Droin/MiRo-baby-watch/assets/72973649/abd0d8fb-43d4-4f36-8563-c1cd14e649dc" width="700">
 </p>
 
 
